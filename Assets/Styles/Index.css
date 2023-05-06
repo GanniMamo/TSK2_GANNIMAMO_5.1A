@@ -1,3 +1,19 @@
+@font-face {
+    font-family: Poppins-Regular;
+    src: url('../Fonts/Poppins-Regular.ttf');
+}
+
+@font-face {
+    font-family: Poppins-Medium;
+    src: url('../Fonts/Poppins-Medium.ttf');
+}
+
+@font-face {
+    font-family: Poppins-Bold;
+    src: url('../Fonts/Poppins-Bold.ttf');
+}
+
+
 .Background {
     background-color: whitesmoke;
 }
@@ -8,24 +24,29 @@
 
 .navbar {
     background-color: #fee2a9;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .nav-link:active {
-    color: blue;
+    color: red;
+    font-family: Poppins-Bold;
 }
 
 .nav-link {
-    color: red;
+    color: black;
+    font-family: Poppins-Medium;
+    font-size: large;
+    text-indent: 10px;
 }
 
 .nav-link:hover {
-    color: blue;
+    color: red;
+    font-family: Poppins-Medium;
 }
 
-.nav-link:disabled {
-    color: blue;
-}
 
 .navbar-collapse {
     justify-content: end;
 }
+
