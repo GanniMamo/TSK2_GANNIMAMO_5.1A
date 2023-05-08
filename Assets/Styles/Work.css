@@ -29,7 +29,7 @@
 }
 
 .nav-link:active {
-    color: red;
+    color: rgb(246, 255, 0);
     font-family: Poppins-Bold;
 }
 
@@ -104,4 +104,3 @@ img{
 .card{
     margin: 0 .5em;
 }
-
