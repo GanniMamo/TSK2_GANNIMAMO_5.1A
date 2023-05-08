@@ -29,7 +29,7 @@
 }
 
 .nav-link:active {
-    color: red;
+    color: rgb(246, 255, 0);
     font-family: Poppins-Bold;
 }
 
@@ -49,46 +49,40 @@
     justify-content: end;
 }
 
-.img-fluid {
-    border-radius: 10px;
+.profile-circel-image-200 img {
+    width: 250px;
+    height: 250px;
+    border-radius: 250px;
 }
 
-.my-container {
-    padding: 0 30px;
-    margin-bottom: 20px;
+.container {
+    margin-top: 20px;
+}
+
+.col-lg-3 {
+    border-radius: 20px;
+    margin: 30px;
+    height: 500px;
+    width: 380px;
+    box-shadow: 0px 0px 20px #bebebe;
+}
+
+.img-fluid {
+    margin-top: 50px;
+}
+
+.PageTitle {
+    font-family: Poppins-Bold;
 }
 
 .Title {
-    margin-bottom: 20px;
-    text-align: center;
     font-family: Poppins-Bold;
 }
 
-.Description {
-    text-align: center;
+.Body{
     font-family: Poppins-Regular;
 }
 
-#btn-back-to-top {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    display: none;
-}
-
-.btn-danger {
-    background-color: #ffe2a9;
-    border-color:  #ffe2a9;
-    border-radius: 50px;
-    color: black;
-    font-family: Poppins-Bold;
-}
-
-.btn-danger:hover {
-    background-color: #ffe2a9;
-    border-color:  #ffe2a9;
-    border-radius: 50px;
-    color: black;
-    font-family: Poppins-Bold;
-    box-shadow: 0px 0px 15px #bebebe;
+.mb-5 {
+    margin-bottom: 40px;
 }
