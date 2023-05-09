@@ -28,8 +28,8 @@
     padding-right: 20px;
 }
 
-.nav-link:active {
-    color: rgb(246, 255, 0);
+.active {
+    color: #f6ff00 !important;
     font-family: Poppins-Bold;
 }
 
