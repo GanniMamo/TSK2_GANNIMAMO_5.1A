@@ -1,0 +1,56 @@
+@font-face {
+    font-family: Poppins-Regular;
+    src: url('../Fonts/Poppins-Regular.ttf');
+}
+
+@font-face {
+    font-family: Poppins-Medium;
+    src: url('../Fonts/Poppins-Medium.ttf');
+}
+
+@font-face {
+    font-family: Poppins-Bold;
+    src: url('../Fonts/Poppins-Bold.ttf');
+}
+
+
+.Background {
+    background-color: whitesmoke;
+    display: grid;
+    margin: 0;
+    padding: 0;
+}
+
+.Logo {
+    width: 100px;
+}
+
+.navbar {
+    background-color: #ffe2a9;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.nav-link:active {
+    color: red;
+    font-family: Poppins-Bold;
+}
+
+.nav-link {
+    color: black;
+    font-family: Poppins-Medium;
+    font-size: large;
+    text-indent: 10px;
+}
+
+.nav-link:hover {
+    color: red;
+    font-family: Poppins-Medium;
+}
+
+.navbar-collapse {
+    justify-content: end;
+}
+
+
+
