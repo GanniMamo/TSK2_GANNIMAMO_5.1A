@@ -92,11 +92,15 @@ body {
 .btn-primary {
     background-color: #ffe2a9;
     border-color: #ffe2a9;
+    color: black;
+    font-family: Poppins-Bold;
 }
 
 .btn-primary:hover {
     background-color: #f9e6c1;
     border-color: #f9e6c1;
+    color: black;
+    font-family: Poppins-Bold;
 }
 
 a {
@@ -111,6 +115,8 @@ a:hover {
 
 i {
     margin-top: 40px;
+    width: 50px;
+    height: 50px;
 }
 
 .form-label {
@@ -119,5 +125,9 @@ i {
 
 #form-control {
     border-color: black;
+}
+
+.Form-Container {
+    font-family: Poppins-Medium;
 }
 
