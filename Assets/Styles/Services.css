@@ -45,6 +45,11 @@
     font-family: Poppins-Medium;
 }
 
+.active {
+    color: #f6ff00 !important;
+    font-family: Poppins-Bold;
+}
+
 .navbar-collapse {
     justify-content: end;
 }
