@@ -103,6 +103,13 @@ body {
     font-family: Poppins-Bold;
 }
 
+.btn-primary:active {
+    background-color: #f9e6c1 !important;
+    border-color: #f9e6c1 !important;
+    color: black;
+    font-family: Poppins-Bold;
+}
+
 a {
     text-decoration: none;
     color: black;

@@ -54,7 +54,7 @@
 }
 
 .my-container {
-    padding: 0 30px;
+    padding: 0 50px;
     margin-bottom: 20px;
 }
 
@@ -101,4 +101,24 @@
     color: black;
     font-family: Poppins-Bold;
     box-shadow: 0px 0px 15px #bebebe;
+}
+
+.carousel-inner {
+    width: 90%;
+    height: 80%;
+    margin-top: 100px;
+    border-radius: 20px;
+    margin-left: 50px;
+}
+
+.Title {
+    margin-top: 30px;
+    margin-right: 130px;
+    text-align: left;
+}
+
+.Description{
+    margin-top: 30px;
+    margin-right: 100px;
+    text-align: justify;
 }

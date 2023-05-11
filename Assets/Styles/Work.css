@@ -138,3 +138,12 @@ img{
     color: black;
     box-shadow: 0px 0px 15px #ffe2a9;
 }
+
+.btn-danger:active {
+    background-color: #ffe2a9 !important;
+    border-color:  #ffe2a9 !important;
+    border-radius: 50px;
+    color: black;
+    font-family: Poppins-Bold;
+    box-shadow: 0px 0px 15px #bebebe;
+}

@@ -79,3 +79,11 @@ border-color: whitesmoke;
     box-shadow: 1px 1px 30px black;
 }
 
+.btn:active {
+    background-color: whitesmoke !important;
+    border-color: whitesmoke !important;
+    opacity: 80%;
+    color:black;
+    box-shadow: 1px 1px 30px black;
+}
+
