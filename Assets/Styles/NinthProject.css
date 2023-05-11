@@ -28,20 +28,15 @@
     padding-right: 20px;
 }
 
-.nav-link:active {
-    color: red;
-    font-family: Poppins-Bold;
-}
-
 .nav-link {
-    color: black;
+    color: #636363;
     font-family: Poppins-Medium;
     font-size: large;
     text-indent: 10px;
 }
 
 .nav-link:hover {
-    color: red;
+    color: #1e1e1e;
     font-family: Poppins-Medium;
 }
 
@@ -115,10 +110,24 @@
     margin-top: 30px;
     margin-right: 130px;
     text-align: left;
+    font-family: Poppins-Bold;
+    color: #1e1e1e;
 }
 
 .Description{
     margin-top: 30px;
     margin-right: 100px;
     text-align: justify;
+    font-family: Poppins-Regular;
+    color: #636363;
+}
+
+.WorkCategory {
+    font-family: Poppins-Regular;
+    color: #636363;
+}
+
+.Credits {
+    font-family: Poppins-Medium;
+    color: #1e1e1e;
 }

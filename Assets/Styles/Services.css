@@ -28,26 +28,21 @@
     padding-right: 20px;
 }
 
-.nav-link:active {
-    color: rgb(246, 255, 0);
-    font-family: Poppins-Bold;
+.nav-link:hover {
+    color: #1e1e1e;
+    font-family: Poppins-Medium;
 }
 
 .nav-link {
-    color: black;
+    color: #636363;
     font-family: Poppins-Medium;
     font-size: large;
     text-indent: 10px;
 }
 
-.nav-link:hover {
-    color: red;
-    font-family: Poppins-Medium;
-}
-
 .active {
-    color: #f6ff00 !important;
-    font-family: Poppins-Bold;
+    color: #1e1e1e !important;
+    font-family: Poppins-Medium;
 }
 
 .navbar-collapse {
@@ -78,14 +73,17 @@
 
 .PageTitle {
     font-family: Poppins-Bold;
+    color: #1e1e1e;
 }
 
 .Title {
     font-family: Poppins-Bold;
+    color: #1e1e1e;
 }
 
 .Body{
     font-family: Poppins-Regular;
+color: #636363;
 }
 
 .mb-5 {

@@ -31,20 +31,15 @@
     padding-right: 20px;
 }
 
-.nav-link:active {
-    color: red;
-    font-family: Poppins-Bold;
-}
-
 .nav-link {
-    color: black;
+    color: #636363;
     font-family: Poppins-Medium;
     font-size: large;
     text-indent: 10px;
 }
 
 .nav-link:hover {
-    color: red;
+    color: #1e1e1e;
     font-family: Poppins-Medium;
 }
 
@@ -92,37 +87,37 @@ body {
 .btn-primary {
     background-color: #ffe2a9;
     border-color: #ffe2a9;
-    color: black;
+    color: #1e1e1e;
     font-family: Poppins-Bold;
 }
 
 .btn-primary:hover {
     background-color: #f9e6c1;
     border-color: #f9e6c1;
-    color: black;
+    color: #1e1e1e;
     font-family: Poppins-Bold;
 }
 
 .btn-primary:active {
     background-color: #f9e6c1 !important;
     border-color: #f9e6c1 !important;
-    color: black;
+    color: #1e1e1e;
     font-family: Poppins-Bold;
 }
 
 a {
     text-decoration: none;
-    color: black;
+    color: #1e1e1e;
 }
 
 a:hover {
     text-decoration: none;
-    color: red;
+    color: #636363;
 }
 
 .active {
-    color: #f6ff00 !important;
-    font-family: Poppins-Bold;
+    color: #1e1e1e !important;
+    font-family: Poppins-Medium;
 }
 
 i {

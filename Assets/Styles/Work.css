@@ -29,19 +29,19 @@
 }
 
 .active {
-    color: #f6ff00 !important;
-    font-family: Poppins-Bold;
+    color: #1e1e1e !important;
+    font-family: Poppins-Medium;
 }
 
 .nav-link {
-    color: black;
+    color: #636363;
     font-family: Poppins-Medium;
     font-size: large;
     text-indent: 10px;
 }
 
 .nav-link:hover {
-    color: red;
+    color: #1e1e1e;
     font-family: Poppins-Medium;
 }
 
@@ -78,6 +78,7 @@
     text-align: center;
     margin-top: 50px;
     margin-bottom: 50px;
+    color: #1e1e1e;
 }
 
 .img-wrapper{
@@ -122,8 +123,8 @@ img{
     font-family: Poppins-Bold;
     background-color: #ffffff;
     border: #ffe2a9;
-    border: 1px solid;
-    color: black;
+    border: 1px solid #1e1e1e;
+    color: #1e1e1e;
     margin-bottom: 30px;
     height: 50px;
     width: 200px;
@@ -135,7 +136,15 @@ img{
     font-family: Poppins-Bold;
     background-color: #ffe2a9;
     border: #ffe2a9;
-    color: black;
+    color: #1e1e1e;
+    box-shadow: 0px 0px 15px #ffe2a9;
+}
+
+.btn-primary:active {
+    font-family: Poppins-Bold;
+    background-color: #ffe2a9 !important;
+    border: #ffe2a9 !important;
+    color: #1e1e1e;
     box-shadow: 0px 0px 15px #ffe2a9;
 }
 
@@ -143,7 +152,7 @@ img{
     background-color: #ffe2a9 !important;
     border-color:  #ffe2a9 !important;
     border-radius: 50px;
-    color: black;
+    color: #1e1e1e;
     font-family: Poppins-Bold;
     box-shadow: 0px 0px 15px #bebebe;
 }
