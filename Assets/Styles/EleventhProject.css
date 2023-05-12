@@ -53,17 +53,6 @@
     margin-bottom: 20px;
 }
 
-.Title {
-    margin-bottom: 20px;
-    text-align: center;
-    font-family: Poppins-Bold;
-}
-
-.Description {
-    text-align: center;
-    font-family: Poppins-Regular;
-}
-
 #btn-back-to-top {
     position: fixed;
     bottom: 20px;
@@ -112,6 +101,7 @@
     text-align: left;
     font-family: Poppins-Bold;
     color: #1e1e1e;
+    margin-bottom: 20px;
 }
 
 .Description{
